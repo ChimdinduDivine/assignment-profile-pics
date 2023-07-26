@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 40px;
+
+}
+.item1{
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: larger;
+background-color: grey;
+}
